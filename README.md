@@ -1,6 +1,5 @@
 # Simple Caesar Encryptor
-## Author: github.com/manish2414
-## YouTube: youtube.com/manishtechnical24
+## Author: github.com/adhikaria10
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/ceaserCipher.png" alt="caesar cipher" style="max-width:100%;">
 
@@ -35,16 +34,10 @@
 <h1>Contact me</h1>
 
 ### Linkedin
-https://www.linkedin.com/in/manishgiri24
-
-### YouTube
-https://www.youtube.com/manishtechnical24
-
-### Instagram
-https://www.instagram.com/manishgiri_24
+https://www.linkedin.com/in/aayushaadhikari108
 
 ### GitHub
-https://www.github.com/manish2414
+https://www.github.com/adhikaria10
 
 ### 📢 Warning
 
